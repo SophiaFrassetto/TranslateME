@@ -36,4 +36,13 @@ Cada pasta (`Desafio - 01`, `Desafio - 01a`, etc.) contém:
 
 ---
 
+## Meu Progresso
+
+- [x] Desafio 01
+- [ ] Desafio 01a
+- [ ] Desafio 02
+- [ ] Desafio 02a
+- [ ] Desafio 02b
+- [ ] Desafio 02c
+
 Sinta-se à vontade para explorar, praticar e contribuir!
