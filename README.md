@@ -39,7 +39,7 @@ Cada pasta (`Desafio - 01`, `Desafio - 01a`, etc.) contém:
 ## Meu Progresso
 
 - [x] Desafio 01
-- [ ] Desafio 01a
+- [x] Desafio 01a
 - [ ] Desafio 02
 - [ ] Desafio 02a
 - [ ] Desafio 02b
